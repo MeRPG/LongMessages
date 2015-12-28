@@ -1,0 +1,10 @@
+name: ${project.artifactId}
+version: v${project.version}
+description: LongMessages allows you to extend the length of your chat messages
+author: Jaxon A Brown
+website: http://mcdev.jaxonbrown.net/
+main: net.jaxonbrown.mcdev.utilities.longMessages.LongMessagesPlugin
+commands:
+  longmessages:
+    description: General information about LongMessages. You can use '/longmessages reload' to reload the config.
+    aliases: [longmessage, lm]

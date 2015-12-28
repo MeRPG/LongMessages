@@ -1,0 +1,8 @@
+newline-enabled: true
+extension-character: "&"
+newline-character: "^"
+permissions:
+  extension-permission: "longmessages.use"
+  newline-permission: "longmessages.newline"
+maximum-message-length: 2048
+newline-limit: 10
